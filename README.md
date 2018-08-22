@@ -34,5 +34,4 @@ The steps will be:
 5.  running Kibana instance (version 6.2.2)
 
 ### GIF DEMO 
-file:///C:/Users/asus/Downloads/ezgif.com-crop.gif
-
+file:///C:/Users/asus/Downloads/ezgif.com-video-to-gif.gif
