@@ -1,6 +1,8 @@
 # SpringData_Batch_Elasticsearch_Kibana
 Import Relational Database Data to Elasticsearch (v6.2.2) with Spring Batch using Spring data and analyze the index with Kibana (v6.2.2).
 ![github1](https://user-images.githubusercontent.com/42076893/44484374-ecc7a680-a64d-11e8-8dbd-b08b85514366.png)
+![github2](https://user-images.githubusercontent.com/42076893/44484677-b50d2e80-a64e-11e8-8570-9a73a49e10b3.png)
+
 
 ## Project description
 
