@@ -1,15 +1,16 @@
 
 # SpringData_Batch_Elasticsearch_Kibana
 Import Relational Database Data to Elasticsearch (v6.2.2) with Spring Batch using Spring data and analyze the index with Kibana (v6.2.2).
+## Demo 
 ![github1](https://user-images.githubusercontent.com/42076893/44484374-ecc7a680-a64d-11e8-8dbd-b08b85514366.png)
 ![github2](https://user-images.githubusercontent.com/42076893/44484782-fe5d7e00-a64e-11e8-8bb3-a4b2ebf6830d.png)
-## Demo GIF
+ ### Gif Demo
 file:///C:/Users/asus/Downloads/Demo.gif
 
 ## Project description
 
 Recently my internship manager ask me to transfer a large amount of data from a relational database to the NoSQL database that is
-Elasticsearch in order to take advantage of its famous fast searching capabilities ( Kibana v6.2.2). 
+Elasticsearch in order to take advantage of its famous fast searching capabilities .
 
 Elasticsearch is part of the ELK stack that is released and maintained by Elastic.co The abbreviation ELK stand for
 Elasticsearch, Logstash, and Kibana.
@@ -34,6 +35,4 @@ The steps will be:
 3.  Install Java 8 and set environment variable and JAVA_HOME (Your JAVA_HOME should point to the ...\Java\jdk1.8.. directory / In Your path you should have %JAVA_HOME%\bin.) 
 4. running Elasticsearch instance (version 6.2.2)
 5.  running Kibana instance (version 6.2.2)
-
-### GIF DEMO 
-file:///C:/Users/asus/Downloads/ezgif.com-video-to-gif.gif
+**  PS: please read carefuly the 3 issue  description in order to avoid them while working o this  project . **
