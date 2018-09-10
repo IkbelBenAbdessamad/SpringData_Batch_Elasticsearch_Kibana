@@ -35,4 +35,5 @@ The steps will be:
 3.  Install Java 8 and set environment variable and JAVA_HOME (Your JAVA_HOME should point to the ...\Java\jdk1.8.. directory / In Your path you should have %JAVA_HOME%\bin.) 
 4. running Elasticsearch instance (version 6.2.2)
 5.  running Kibana instance (version 6.2.2)
-**  PS: please read carefuly the 3 issue  description in order to avoid them while working o this  project . **
+
+**PS: please read carefuly the 3 issue  description in order to avoid them while working o this  project .**
