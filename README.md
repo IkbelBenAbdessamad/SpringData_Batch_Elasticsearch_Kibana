@@ -4,9 +4,6 @@ Import Relational Database Data to Elasticsearch (v6.2.2) with Spring Batch usin
 ## Demo 
 ![github1](https://user-images.githubusercontent.com/42076893/44484374-ecc7a680-a64d-11e8-8dbd-b08b85514366.png)
 ![github2](https://user-images.githubusercontent.com/42076893/44484782-fe5d7e00-a64e-11e8-8bb3-a4b2ebf6830d.png)
- ### Gif Demo
-file:///C:/Users/asus/Downloads/Demo.gif
-
 ## Project description
 
 Recently my internship manager ask me to transfer a large amount of data from a relational database to the NoSQL database that is
