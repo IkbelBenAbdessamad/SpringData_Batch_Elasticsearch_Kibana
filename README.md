@@ -27,10 +27,10 @@ The steps will be:
 
 ### Environment settings 
 
-1.  Download and install MySQL database ( I used wamp server ) 
+1.  Download and install MySQL SGBD 
 2.  Eclipse Oxygene as an  IDE 
 3.  Install Java 8 and set environment variable and JAVA_HOME (Your JAVA_HOME should point to the ...\Java\jdk1.8.. directory / In Your path you should have %JAVA_HOME%\bin.) 
-4. running Elasticsearch instance (version 6.2.2)
+4.  running Elasticsearch instance (version 6.2.2)
 5.  running Kibana instance (version 6.2.2)
 
 **PS: please read carefuly the issue section  in order to avoid them while installing the project.**
