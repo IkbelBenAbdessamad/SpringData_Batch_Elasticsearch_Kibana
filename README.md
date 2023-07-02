@@ -35,4 +35,4 @@ The steps will be:
 
 **PS: please read carefuly the issue section  in order to avoid them while installing the project.**
 
-### Testing Git
+### Test Git
