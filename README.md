@@ -34,3 +34,5 @@ The steps will be:
 5.  running Kibana instance (version 6.2.2)
 
 **PS: please read carefuly the issue section  in order to avoid them while installing the project.**
+
+### Testing Git
